@@ -1,0 +1,159 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#rooms{
+    position:fixed;
+    width:100%;
+    height:100%;
+    max-width:600px;
+    background: #ffffff;
+    border-left:1px solid #eee;
+    border-right:1px solid #eee;
+    left:50%;
+    transform: translate(-50%)
+}
+
+#Chatrooms{
+    font-family: 'Roboto',sans-serif;
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: #111;
+    border-bottom: 4px solid #555;
+    padding: 5px 0px;
+    text-align:center;
+}
+
+#room1{
+    margin-top:30px;
+    margin-left:auto; 
+    margin-right:auto;
+    height:100px;
+    width:400px;
+    background-color:#ffffff;
+    border:1px solid #969696;
+}
+
+#text1{
+    text-align:center;
+    font-size:27px;
+    border-bottom: 1px solid #969696;
+    font-family:"Roboto";
+
+}
+
+#button1{
+    display:block;
+    margin:auto;
+    position:relative;
+    top:15px;
+    width:300px;
+    height:40px;
+    font-family:"Roboto";
+    font-size:20px;
+    background-color:black;
+    color:white;
+    border:none;
+}
+
+#room2{
+    margin-top:30px;
+    margin-left:auto; 
+    margin-right:auto;
+    height:145px;
+    width:400px;
+    background-color:#ffffff;
+    border:1px solid #969696;
+}
+#text2{
+    text-align:center;
+    font-size:27px;
+    border-bottom: 1px solid #969696;
+    font-family:"Roboto";
+}
+
+#button2{
+    display:block;
+    margin:auto;
+    position:relative;
+    top:65px;
+    width:300px;
+    height:40px;
+    font-family:"Roboto";
+    font-size:20px;
+    background-color:black;
+    color:white;
+    border:none;
+}
+#submit2{
+    display:block;
+    position:relative;
+    margin:auto;
+    width:298px;
+    height:36px;
+    bottom:14px;
+    border:1px, solid, black;
+    font-size:20px;
+    text-indent:5px;
+}
+
+#textpassword2{
+    position:absolute;
+    font-size:15px;
+    font-family:"Roboto";
+    margin-top:5px;
+    margin-left:50px;
+    font-weight:lighter;
+}
+
+#room3{
+    margin-top:30px;
+    margin-left:auto; 
+    margin-right:auto;
+    height:145px;
+    width:400px;
+    background-color:#ffffff;
+    border:1px solid #969696;
+}
+
+#text3{
+    text-align:center;
+    font-size:27px;
+    border-bottom: 1px solid #969696;
+    font-family:"Roboto";
+}
+
+#textpassword3{
+    position:absolute;
+    font-size:15px;
+    font-family:"Roboto";
+    margin-top:5px;
+    margin-left:50px;
+    font-weight:lighter;
+}
+
+#button3{
+    display:block;
+    margin:auto;
+    position:relative;
+    top:65px;
+    width:300px;
+    height:40px;
+    font-family:"Roboto";
+    font-size:20px;
+    background-color:black;
+    color:white;
+    border:none;
+}
+
+#submit3{
+    display:block;
+    position:relative;
+    margin:auto;
+    width:298px;
+    height:36px;
+    bottom:14px;
+    border:1px, solid, black;
+    font-size:20px;
+    text-indent:5px;
+}
