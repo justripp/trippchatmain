@@ -1,7 +1,7 @@
 // links //
-const link1  = "http://172.236.127.104/";
-const link2 = "http://172.236.127.104:81/";
-const link3 = "http://172.236.127.104:82/";
+const link1  = "http://172.236.127.104:81/";
+const link2 = "http://172.236.127.104:82/";
+const link3 = "http://172.236.127.104:83/";
 
 // passes //
 const pass1 = "stoplooking";
